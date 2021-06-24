@@ -7,11 +7,3 @@ Curso: Engenharia da computação - UFAL
 
 Cidade: Recife
 
-
-# Adicionando exemplos da aula 2, parte 1
-
-|item | Quantidade |
-|-------------|--------------|
-| Arroz | 3 |
-| Feijão | 6 |
-| Batata | 7 |
